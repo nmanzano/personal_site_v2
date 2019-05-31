@@ -1,0 +1,51 @@
+enable  : true
+title   : Skills
+# subtitle: >
+#   Here are just a few of the langues and frameworks I have used.
+item    :
+  - icon  : devicon-javascript-plain
+    title : JavaScript
+    description : # >
+      #Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+
+  - icon  : ion-social-python
+    title : Python
+    # description : >
+    #   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+
+  - icon  : devicon-mysql-plain
+    title : MySQL
+    # description : >
+    #   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+
+  - icon  : ion-social-html5
+    title : HTML5
+    # description : >
+    #   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+
+  - icon  : ion-social-css3
+    title : CSS
+    # description : >
+    #   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+
+
+  - icon  : devicon-bootstrap-plain
+    title : Bootstrap
+    # description : >
+    #   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+
+  - icon  : devicon-react-original-wordmark
+    title : React
+    # description : >
+    #   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+
+  - icon  : devicon-jquery-plain-wordmark
+    title : jQuery
+    # description : >
+    #   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+
+
+  - icon  : devicon-django-plain
+    title : Django
+    # description : >
+    #   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
